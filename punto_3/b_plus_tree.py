@@ -1,4 +1,7 @@
-# https://www.geeksforgeeks.org/insertion-in-a-b-tree/
+# The base for the following code was taken from: 
+# simran_rawat, amartyaghoshgfg & aditiyadav20102001. (June 25, 2022). Insertion in a B+ tree. GeeksforGeeks. 
+# Available at: https://www.geeksforgeeks.org/insertion-in-a-b-tree/
+
 MAX = 2
 
 class Node:
